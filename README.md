@@ -4,7 +4,7 @@ Hi, I'm Avi, a freshman at UC Berkeley, and I'm really interested in different t
 So far I've been able to make variations of two models that I've found online, and build one of my own fully from scratch. All projects are currently done in Jupyter Notebook due to ease of use.
 
 My current projects include:
-- Wine quality classification with 87% accuracy using 11 different metrics and a Multi Layer Perceptron Neural network with layer sizes of 11, 10, and 9. My next step for this is to try to create a Support Vector Machine model and test which can achieve higher accuracy.
+- Wine quality classification with 87% accuracy using 11 different metrics and a Multi Layer Perceptron Neural network with layer sizes of 11, 10, and 9. My next step for this is to try to create a Support Vector Machine model and test which method can achieve higher accuracy.
 
 - Multi Layer Perceptron Regressor for Tesla stock price prediction using various self chosen metrics and stock data pulled from IEX Cloud API. Currently experimenting with hyperbolic tangent and Rectified Linear Unit activation functions, as well as layer size and metrics.
 
