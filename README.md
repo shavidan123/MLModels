@@ -8,4 +8,4 @@ My current projects include:
 
 - Multi Layer Perceptron Regressor for Tesla stock price prediction using various self chosen metrics and stock data pulled from IEX Cloud API. Currently experimenting with hyperbolic tangent and Rectified Linear Unit activation functions, as well as layer size and metrics.
 
-- Linear regression model to predict Amazon stock price using historical data and the talib technical analysis library for Python.
+- Multiple regression model to predict Amazon stock price using historical data and the talib technical analysis library for Python.
