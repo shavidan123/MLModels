@@ -1,5 +1,5 @@
 # MLModels
-Hi, I'm really interested in different types of Machine Learning models, including Neural Networks, Regression, and SVMs. I'm 100% self taught so far, so I've been using online resources to learn and trying to do projects by making my own models based on different common datasets online.
+Hi, I'm Avi, a freshman at UC Berkeley, and I'm really interested in different types of Machine Learning models, including Neural Networks, Regression, and SVMs. I'm 100% self taught so far, so I've been using online resources to learn and trying to do projects by making my own models based on different common datasets online.
 
 So far I've been able to make variations of two models that I've found online, and build one of my own fully from scratch. All projects are currently done in Jupyter Notebook due to ease of use.
 
